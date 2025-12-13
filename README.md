@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=6d28d9&style=flat" />
-</p>
-<p align="center">
   <a href="mailto:manigandapravi@gmail.com">
     <img src="https://img.icons8.com/color/36/gmail.png" />
   </a>
@@ -13,6 +10,9 @@
   <a href="https://www.linkedin.com/in/manigandapravi/" target="_blank">
     <img src="https://img.icons8.com/color/36/linkedin.png" />
   </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=6d28d9&style=flat" />
 </p>
 
 
