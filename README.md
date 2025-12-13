@@ -1,16 +1,50 @@
-## Hi there 👋
+👋 Hi, I'm Manigandapravi
+🎓 B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology  
+🐍 Python Developer | 📊 Data Analytics Enthusiast
+I am a Computer Science Engineering student specializing in Artificial Intelligence
+and Machine Learning. I enjoy building real-world applications using Python and
+data analytics tools.
 
-<!--
-**Manigandapravee/Manigandapravee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on practical learning and love transforming raw data into meaningful
+insights through hands-on projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning: Machine Learning, Data Analytics, NLP  
+🎯 Goal: Build scalable, real-world AI & data-driven solutions
+
+💻 Languages: Python, SQL  
+🌐 Web: HTML, CSS  
+🛠 Tools: AWS, Power BI, MS Excel, VS Code  
+📚 Concepts: Data Analytics, OCR, NFC, Databases
+
+🏥 NFC Healthcare System
+• NFC-based patient identification
+• OCR prescription scanning
+• PDF report generation & email sending
+• SQLite database for medical records
+
+💰 Family Expense Tracker
+• Expense splitting & tracking
+• Secure login with role-based access
+• CI/CD deployment using AWS
+
+📚 Smart Learning Management System
+• Student registration & course enrollment
+• Assignment submission & feedback
+• Admin dashboard for course management
+
+
+🏅 AWS – Machine Learning Foundations  
+🏅 Oracle – Foundations Associate  
+🏅 Coursera – Data Analysis using Excel  
+🏅 IBM – Data Analytics Essentials
+
+🤝 Volunteered in college & community events  
+🎬 Video editing & digital content creation  
+📢 Active in workshops & technical seminars
+
+⚡ Passionate about Python, AI, and building solutions that solve real problems.
+
+
+
+
