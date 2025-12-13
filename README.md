@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22c55e&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=22c55e&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-B.Tech CSE (AI & ML) | Python Developer | Data Analytics Explorer
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=22c55e&style=flat" />
+</p>
 
 <p align="center">
-SRM Institute of Science and Technology • 2022 – 2026
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:020617&height=120&section=footer"/>
 </p>
 
 ---
