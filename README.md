@@ -94,6 +94,6 @@ working with **data to extract insights**, and developing
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:A5C2F2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:6d28d9&height=120&section=footer"/>
 </p>
 
