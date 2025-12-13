@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:22c55e&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=22c55e&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:6d28d9&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=22c55e&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:020617&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=6d28d9&style=flat" />
 </p>
 
 ---
@@ -101,5 +97,6 @@ https://github.com/Manigandapravee/NFC-Healthcare
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:020617&height=120&section=footer"/>
 </p>
+
