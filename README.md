@@ -1,50 +1,105 @@
-👋 Hi, I'm Manigandapravi
-🎓 B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology  
-🐍 Python Developer | 📊 Data Analytics Enthusiast
-I am a Computer Science Engineering student specializing in Artificial Intelligence
-and Machine Learning. I enjoy building real-world applications using Python and
-data analytics tools.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-I focus on practical learning and love transforming raw data into meaningful
-insights through hands-on projects.
+<h3 align="center">
+B.Tech CSE (AI & ML) | Python Developer | Data Analytics Explorer
+</h3>
 
+<p align="center">
+SRM Institute of Science and Technology • 2022 – 2026
+</p>
 
-🌱 Learning: Machine Learning, Data Analytics, NLP  
-🎯 Goal: Build scalable, real-world AI & data-driven solutions
+---
 
-💻 Languages: Python, SQL  
-🌐 Web: HTML, CSS  
-🛠 Tools: AWS, Power BI, MS Excel, VS Code  
-📚 Concepts: Data Analytics, OCR, NFC, Databases
+## 👋 Introduction
+I’m a **Computer Science Engineering (AI & ML) student** who believes in  
+**building first, learning faster**.
 
-🏥 NFC Healthcare System
-• NFC-based patient identification
-• OCR prescription scanning
-• PDF report generation & email sending
-• SQLite database for medical records
+I enjoy writing **Python code that actually solves problems**,  
+working with **data to extract insights**, and developing  
+**real-world applications instead of just academic projects**.
 
-💰 Family Expense Tracker
-• Expense splitting & tracking
-• Secure login with role-based access
-• CI/CD deployment using AWS
+Hands-on learning > theory — always.
 
-📚 Smart Learning Management System
-• Student registration & course enrollment
-• Assignment submission & feedback
-• Admin dashboard for course management
+---
 
+## 🎓 Education
+- **B.Tech – Computer Science Engineering (AI & ML)**  
+  SRM Institute of Science and Technology  
+  **GPA:** 7.5 / 10
 
-🏅 AWS – Machine Learning Foundations  
-🏅 Oracle – Foundations Associate  
-🏅 Coursera – Data Analysis using Excel  
-🏅 IBM – Data Analytics Essentials
+---
 
-🤝 Volunteered in college & community events  
-🎬 Video editing & digital content creation  
-📢 Active in workshops & technical seminars
+## 🚀 Projects
 
-⚡ Passionate about Python, AI, and building solutions that solve real problems.
+### 🏥 NFC Healthcare System
+- Built a Python-based healthcare application using **NFC + OCR**
+- Digitizes patient records and handwritten prescriptions
+- Automatically generates **PDF medical reports**
+- Stores and retrieves data using **SQLite**
+- Designed to reduce manual work and improve data accuracy  
 
+🔗 **Project Repo:**  
+https://github.com/Manigandapravee/NFC-Healthcare
 
+---
 
+### 💰 Family Expense Tracker
+- Web application to **track and split daily expenses**
+- Secure authentication with role-based access
+- Automated deployment using **Docker, Terraform & Jenkins**
+- Hosted and managed on **AWS**
 
+---
+
+### 📚 Smart Learning Management System
+- Full-featured **LMS using Django & SQLite**
+- Student registration, course enrollment, assignment submission
+- Admin dashboard for managing users, courses, and activity
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:**  
+`Python` `SQL`
+
+**Web Technologies:**  
+`HTML` `CSS`
+
+**Tools & Platforms:**  
+`AWS` `Power BI` `MS Excel` `VS Code` `Git` `GitHub`
+
+---
+
+## 📜 Certifications
+- Machine Learning Foundations – **AWS**
+- Oracle Certified Foundations Associate – **Oracle**
+- Introduction to Data Analysis using Excel – **Coursera**
+- Data Analytics Essentials – **IBM**
+
+---
+
+## 🌱 Currently Exploring
+- Machine Learning fundamentals
+- Data analytics & visualization techniques
+- Building scalable Python applications
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:manigandapravi@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer"/>
+</p>
