@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:6d28d9&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:6d28d9&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="mailto:manigandapravi@gmail.com">
-    <img src="https://img.icons8.com/color/36/gmail.png" />
+    <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/manigandapravi/" target="_blank">
-    <img src="https://img.icons8.com/color/36/linkedin.png" />
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
 </p>
 <p align="center">
@@ -26,14 +26,13 @@ I enjoy writing **Python code that actually solves problems**,
 working with **data to extract insights**, and developing  
 **real-world applications instead of just academic projects**.
 
-Hands-on learning > theory — always.
 
 ---
 
 ## 🎓 Education
 - **B.Tech – Computer Science Engineering (AI & ML)**  
   SRM Institute of Science and Technology  
-  **GPA:** 7.5 / 10
+  **GPA:** 7.34 / 10
 
 ---
 
@@ -45,9 +44,6 @@ Hands-on learning > theory — always.
 - Automatically generates **PDF medical reports**
 - Stores and retrieves data using **SQLite**
 - Designed to reduce manual work and improve data accuracy  
-
-🔗 **Project Repo:**  
-https://github.com/Manigandapravee/NFC-Healthcare
 
 ---
 
@@ -94,19 +90,10 @@ https://github.com/Manigandapravee/NFC-Healthcare
 
 ---
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="mailto:manigandapravi@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:020617&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:A5C2F2&height=120&section=footer"/>
 </p>
 
