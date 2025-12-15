@@ -2,15 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:6d28d9&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <a href="mailto:manigandapravi@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/manigandapravi/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-</p>
+<!-- Dynamic Typing Animation with Multiple Colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analytics /+UI/UX+Enthusiast+;AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing Animation" />
+
+<br/>
+
+<!-- Vibrant Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/manigandapravi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/manigandapravee)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:manigandapravi@gmail.com)
+<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=6d28d9&style=flat" />
 </p>
@@ -35,6 +36,30 @@ working with **data to extract insights**, and developing
   **GPA:** 7.34 / 10
 
 ---
+
+## 🛠️ Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧰 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ## 🚀 Projects
 
@@ -62,19 +87,6 @@ working with **data to extract insights**, and developing
 
 ---
 
-## 🛠️ Technical Skills
-
-**Programming:**  
-`Python` `SQL`
-
-**Web Technologies:**  
-`HTML` `CSS`
-
-**Tools & Platforms:**  
-`AWS` `Power BI` `MS Excel` `VS Code` `Git` `GitHub`
-
----
-
 ## 📜 Certifications
 - Machine Learning Foundations – **AWS**
 - Oracle Certified Foundations Associate – **Oracle**
@@ -87,9 +99,6 @@ working with **data to extract insights**, and developing
 - Machine Learning fundamentals
 - Data analytics & visualization techniques
 - Building scalable Python applications
-
----
-
 
 ---
 
