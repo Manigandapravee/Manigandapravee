@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:6d28d9&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 <!-- Dynamic Typing Animation with Multiple Colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analytics+UI+UX+Enthustics+%F0%9F%9A%80;AI+%26+ML+Engineering+Student+%F0%9F%A4%96; alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analytics+UI+UX+Enthustics+%F0%9F%9A%80;AI+%26+ML+Engineering+Student+%F0%9F%A4%96;"alt="Typing Animation" />
 
 <br/>
 
