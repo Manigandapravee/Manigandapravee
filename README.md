@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1365F2,100:6d28d9&height=200&section=header&text=Manigandapravi%20G&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 <!-- Dynamic Typing Animation with Multiple Colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analytics /+UI/UX+Enthusiast+;AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analytics+Enthusiast+📊;UI+%2F+UX+Enthusiast+🎨;AI+%26+ML+Engineer+🤖" />
 
 <br/>
 
@@ -12,9 +11,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/manigandapravee)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:manigandapravi@gmail.com)
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manigandapravee&label=Profile%20Views&color=6d28d9&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=shathish-m&style=for-the-badge&color=006400" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
 
 
 ---
