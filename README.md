@@ -101,7 +101,6 @@ working with **data to extract insights**, and developing
 - Data analytics & visualization techniques
 - Building scalable Python applications
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1365F2&height=120&section=footer"/>
