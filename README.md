@@ -34,7 +34,8 @@ working with **data to extract insights**, and developing
 ## 🎓 Education
 - **B.Tech – Computer Science Engineering (AI & ML)**  
   SRM Institute of Science and Technology  
-  **GPA:** 7.34 / 10
+  **GPA:** 7.5
+ / 10
 
 ---
 
